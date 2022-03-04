@@ -2,7 +2,7 @@
 pipeline {
     
     environment {
-    imagename = "sudheer38/n-project"
+    imagename = "sudheer38/nyyy-project"
     registryCredential = 'NANI'
     dockerImage = ''
   }
